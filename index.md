@@ -22,7 +22,7 @@ theme: Norkart/cleaver-theme
 --
 
 #Copernicus - Sentinels in the sky
-![Copernicus](copernicus.png)
+![Copernicus](copernicus.PNG)
 --
 
 #Modning av tidligere omtalte prosjekt
@@ -58,4 +58,4 @@ theme: Norkart/cleaver-theme
 --
 
 #Geohaiku
-![geohaiku](geohaiku.png)
+![geohaiku](geohaiku.PNG)
